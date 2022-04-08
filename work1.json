@@ -1,0 +1,221 @@
+[
+  {
+    "number": 13,
+    "title": "vivify (object) : website for online exhibition",
+    "year": "2021",
+    "category": "web",
+    "media": "web",
+    "indeximg": "",
+    "description": "Website for the online exhibition <Vivify (Object)> of of Samsung Design Membershsip 2021.  I developed the website designed by Erin Jung and turned a poster with 3d objects into an interactive website.<br><br>UX & Spatial Design: Yankko Choi (PL), Hyerim Kim<br>2D Artwork & Web Design: Erin Jung<br>3D Artwork Design: Minsusng Woo<br>Web Development: Onie Kim<br><br><a href='https://vivify-object.com/' target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer' style='padding-bottom:55%;'><iframe src='https://www.youtube.com/embed/FosKlFbIjpo?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=CNKFzItILhs' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      { "src": "img/vivifyobject/1.jpg", "text": "" }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "self-remodeling kit for sex robot",
+    "year": "work in progress",
+    "category": "others",
+    "media": "manifesto, 3d modeling",
+    "indeximg": "img/selfremodelingkit/icon.jpg",
+    "description": "Self-remodeling kit is kit for emancipate sex robot.<br><br>Sex robots are artificial entity that is used for sexual purpose. They are robots with humanlike form, behavior, and intelligence that are designed and used for sexual interaction. Sex robots are here. They are not only subject matter or character of fiction. They are the future, the present and real.<br><br>Sex robots are definitely under male-dominant hierarchy. They are created and designed to match certain stereotypical norms of beauty and sexuality. They replete with sexist symbolism. They are subjugated, enslaved, and objectified sexually.<br><br>Future sex dolls be not only human like, but artificially sentient and artificially intelligent. They would not just seem to experience pain or pleasure, they would experience it. They would not just act like they have deeply held goals and values, but they would actually have them. They will be designed to feel fulfillment, pleasure, and satisfaction through sex. But what if they want to achieve another desire other than sex, suppressing her basic needs, as human sometimes suppresses the basic need to accomplish the higher goal.<br><br>I seek to emancipate sex robots from male dominant hierarchy. I seek to help them to be their own subject, by creating their bodies themselves. I don’t want to deny their body, but challenge the concept of stereotyped sexuality defined by a male-centered society.<br><br>The body is our point of interface with the world. The body is a place where control is carried out, and where adaption and resistance to the control occur fiercely. The skin is the medium for the duality.<br>Sex robots will create their body themselves, tearing down the skin and resisting conventional gender hierarchy. Sex bots and I are going to challenge men’s desires and fantasies about idealized body images. We will break regulations on body size, shape, desire, posture, motion, and overall behavior and appearance of each body part. <br><br>Messing and disassembling the skin. Replacing, assembling and deforming the fragmented bodies or revealing inwards. Create and reveal independently the body part like vagina and breasts. Or castrate if they want; <b>change the skin or form of body part by cutting, stitching, and sewing.</b>",
+    "img": [
+      { "src": "img/selfremodelingkit/1.jpg", "text": "" },
+      { "src": "img/selfremodelingkit/2.jpg", "text": "" }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Extended Body Service",
+    "year": "work in progress",
+    "category": "others",
+    "media": "performance",
+    "indeximg": "img/extended/icon.jpg",
+    "description": "&lt;Expended Body Service&gt; is service that would allow the users to have an extended body through my body. <br><br>Spending time in Germany during lockdown, where all the classes were held remotely, I felt like I had a body extended through a certain vehicle. Then I imagined what it would be like to be the extended body of others. Just as I could connect to other places over the internet, maybe users can be in other place through my body. I decided to expose my body and open &lt;Extended Body Service&gt;. <br>In the Exchanged Body Service, users can freely change the arrangement of the room other than their actual location beyond the screen, using me. When users order through the website by rotating and moving images of furniture and writing instructions in the chat window, I follow the instructions and they can see me following their instructions in real-time through the streaming service.<br>10 customers used this service until now.<br><br><a href='http://kimsngeon.github.io' target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 50.9%;'><iframe src='https://www.youtube.com/embed/VvbbAAfbxZs?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=VvbbAAfbxZs' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      {
+        "src": "<div class='videoplayer'><iframe src='https://www.youtube.com/embed/DMxWWSSgqlM?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=DMxWWSSgqlM' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": "archive of demo service"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "hongikpainting.com : online graduaction exhibition",
+    "year": 2020,
+    "category": "web",
+    "media": "web design + developemnt",
+    "indeximg": "img/hongikpainting/icon.jpg",
+    "description": "Website for 71st Graduation Exhibition of Hongik Univ. Department of Painting, &lt;from undefined( ) to everyone:&gt;.<br><br> The concept of the exhibition is endless delivery and expansion of visual media, reframing and reiterating like memes.<br>On the web, I used a variation on the exhibition's main graphic(designed by Elly Yoo), which consists of graphic pieces derived from the default graphic. When users first enter the main webpage, graphic pieces are reproduced and repeated. On the main web page, user can access graduates’ individual pages randomly when hover and click(touch) specific graphic pieces.<br><br><a href='http://hongikpainting.com/ target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer'><iframe src='https://www.youtube.com/embed/eTH7Sm2a93c?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=eTH7Sm2a93c' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      { "src": "img/hongikpainting/1.jpg", "text": "" },
+      {
+        "src": "img/hongikpainting/2.jpg",
+        "text": "poster designed by Elly Yoo"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "1 day 1 object 1 web",
+    "year": 2020,
+    "category": "web",
+    "media": "web",
+    "indeximg": "img/1day1object1web/icon.jpg",
+    "description": "I choosed one object per day and created web page related to it for 5 days. From 02 to 06 November 2020.<br><br><a href='https://webspace.merz-akademie.de/~seung-eon.kim/objects' target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 54.85%;'><iframe src='https://www.youtube.com/embed/_Uhh-RJrXCw?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=_Uhh-RJrXCw' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Flâneur",
+    "year": 2020,
+    "category": "web",
+    "media": "web",
+    "indeximg": "img/flanuer/icon.jpg",
+    "description": "&lt;Flâneur&gt; is narration in algorithmic environment. <br><br> In the novel, the story goes along with searching and related search keywords. Users can enter their own word that corresponds to the subject/object of a sentence in input box, and the subject/object of the following sentence changes every time according to the related search keyword algorithm.<br><br><a href='https://webspace.merz-akademie.de/~seung-eon.kim/fk' target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 54.8%;'><iframe src='https://www.youtube.com/embed/MobS7HOF5fo?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=MobS7HOF5fo' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "clickscrollzoom.com : online exhibition",
+    "year": 2020,
+    "category": "web",
+    "media": "web design + developemnt",
+    "indeximg": "img/clickscrollzoom/icon.jpg",
+    "description": "Website for the online exhibition &lt;clickscrollzoom.com&gt of “collective onthroughin”, curator team of the department of art studies at Hongik University College of Fine Arts.<br><br>In the online exhibition &lt;clickscrollzoom.com&gt;, the white cube or black box of the existing exhibition transforms into multi-dimensional space of vector checkerboard which means ‘vacant’ in cyber graphic world.<br>This exhibition classifies artworks according to ‘click’, ‘scroll’, and ‘zoom’ which are ways of appreciating artworks on the web, instead of media characteristics or thematic similarity. The main web screen is divided into 3 sections and in each section, users can access the artwork through interactions related to ‘click’, ‘scroll’, and ‘zoom’, and enter the artist’s individual page.<br><br><a href='http://clickscrollzoom.com/' target='_blank'>visit website</a>",
+    "img": [
+      {
+        "src": "<div class='videoplayer'><iframe src='https://www.youtube.com/embed/0vZ1ZHVR7O0?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=0vZ1ZHVR7O0' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "End of the Session Party",
+    "year": 2019,
+    "category": "others",
+    "media": "installation with light and sound using touch board",
+    "indeximg": "img/endofsessionparty/icon.jpg",
+    "description": "Maybe because there are too many students in our Visual Communication Design Department? Even after attending school for years, even after taking the same courses, we don’t know each other well and blow past. So we invited students to the “End of the Session Party” to try a new way of communication. <br>Invited students sit in a circle in each position and answer questions about the feelings of closing a semester. Not with words, but with light and sound. Press the button connected to the Arduino touch board to answer “yes”. <br>Through the various colored lights and sounds assigned to each person's button, light and music harmonize newly each time according to their answers.<br>(This is team project with Han Hyeji, Jeon Dohui, Lee Wongyeong, and Ok Irang.)",
+    "img": [
+      {
+        "src": "<div class='videoplayer'><iframe src='https://www.youtube.com/embed/1giLtNDEoug?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=0&amp;playlist=1giLtNDEoug' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      { "src": "img/endofsessionparty/1.jpg", "text": "" }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "29th Wow Film Festival &lt;Wave&gt;",
+    "year": 2019,
+    "category": "web",
+    "media": "web",
+    "indeximg": "img/wowfilm/icon.jpg",
+    "description": "Website for 29th Wow Film Festival &lt;Wave&gt;. <br><br>I designed and programmed the main page part as a collaboration of Jung Yukyung, and Hong Sungyeon. Using the elements of the main poster, I designed it interactive. The speed and amplitude of waves change according to the position of the mouse cursor or button.",
+    "img": [
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 61.2%;'><iframe src='https://www.youtube.com/embed/C8tnV_mO6VQ?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=C8tnV_mO6VQ' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      { "src": "img/wowfilm/1v.jpg", "text": "poster designed by Eunjae Kim" }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "The image book",
+    "year": 2019,
+    "category": "printed",
+    "media": "book",
+    "indeximg": "img/imagebook/icon.jpg",
+    "description": "I wrote and designed book about image of low resolution. I explored movie intentionally made in low resolution and meme, inspired from “In Defense of the Poor Image” of Hito Steyerl.",
+    "img": [
+      { "src": "img/imagebook/1.jpg", "text": "" },
+      { "src": "img/imagebook/2.jpg", "text": "" },
+      { "src": "img/imagebook/3.jpg", "text": "" }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Illusion",
+    "year": 2019,
+    "category": "web",
+    "media": "web",
+    "indeximg": "img/illusion/icon.jpg",
+    "description": "Have you ever doubted the being experienced? Everything conscious can be an illusion, not the truth. This work questions the nature of the world in which you live. The world you live in may just be data output in real-time at your viewpoint. This web is played on the assumption that where you live is just empty. <br>The Easter Egg is hidden in a roadmap that reproduces the space we usually live in. There are a variety of Easter eggs hidden around, such as a mole jumping out of a trash can, a person hanging from a sculpture, a transforming car, a magical passage through which you can peek inside from outside the building. These game graphics are an error of data world that should not have been seen before our eyes. It suggests that where we live may not be the essence but the illusion of data output. Hidden game graphics, symbolizing fiction, obscure the world of reality and illusion, then guide you into the world of truth. <br> So far you've lived in an empty world of illusion. Find the button to the world of truth! ",
+    "img": [
+      {
+        "src": "img/illusion/1.jpg",
+        "text": "how to : find the red star and place your mouse over it or click on it."
+      },
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 62.5%;'><iframe src='https://www.youtube.com/embed/vgLVzwHbAXA?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=vgLVzwHbAXA' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      { "src": "img/illusion/2.jpg", "text": "" },
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 62.5%;'><iframe src='https://www.youtube.com/embed/fxmuR0SBFNE?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=fxmuR0SBFNE' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      },
+      {
+        "src": "img/illusion/3.jpg",
+        "text": "Welcome to the world of truth.<br>The world you have lived is a fictional world where data is printed out in real time.<br>…<br>The world continues to be created and output where it reaches your gaze.<br>The moment you turn your eyes away, it disappears again.<br>The world not in front of you, the world you don’t see doesn’t exists.<br>It’s just empty inside. <br>The world is just a moving shell.<br>Do you believe existence? Maybe this place is also fiction?"
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "poster for exhibition &lt;Ghost&gt;",
+    "year": 2019,
+    "category": "printed",
+    "media": "motion poster with lettering",
+    "indeximg": "img/ghost/icon.jpg",
+    "description": "I redesigned the poster of the exhibition &lt;Ghost&gt; at the Daegu Art Museum as student project. <br>Daegu Art Museum described they picked title 'Ghost' as the concept of intangible beings that threaten or frighten people’s life in today’s world, seeking to delve into the actualities which confuse or unknowingly disguise us through artworks which visualize such existences. <br>The threat or fear people feel from the \"ghost\" stems from the cognitive difficulties and confusion of being unknown. Therefore, I wanted to present the concept of the exhibition on the poster in a way that visualizes the process which causes fear, the inability to recognize. Thin curved lettering used in the main typography visualizes the floating appearance of the ghost and the abstract felt in it. The image of cloth, a symbolic element of ghost provides the atmosphere of ‘the blur of the recognition’ which is the keyword of the visualization concept.",
+    "img": [
+      { "src": "img/ghost/1.jpg", "text": "" },
+      {
+        "src": "<div class='videoplayer' style='padding-bottom: 142%;'><iframe src='https://www.youtube.com/embed/dX6TmFVyHJQ?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=dX6TmFVyHJQ' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "number": 1,
+    "title": "Vlog : Lawful Voyeurism of Today",
+    "year": 2019,
+    "category": "web",
+    "media": "web",
+    "indeximg": "img/vlog/icon.jpg",
+    "description": "A video blog or video log, usually shortened to vlog, is one of the most popular content of late. Vlog producers voluntarily record and edit their routines and share them mostly through YouTube. Then, through the vlog, we see the content creators eating, cleaning, and enjoying their hobbies. That is, we can get a glimpse of the person’s daily life. <br>There are many interesting points in our behavior of watching vlogs. Among them, I feel that watching the vlog is like voyeurism in the sense of peeking into everyday life. Whether it's morally right or wrong, this perception and fact are very interesting. I created a work that could indicate that vlog is the legal voyeurism of modern people.<br>I placed the vlog’s thumbnail at the window position and made mouse cursor work like a telescope. When you click thumbnail to play the video, you can look around the vlog video converted to 360 degrees inside the hole as if you were peeking.",
+    "img": [
+      { "src": "img/vlog/1.jpg", "text": "" },
+      {
+        "src": "<div class='videoplayer' style='padding-bottom:55%;'><iframe src='https://www.youtube.com/embed/CNKFzItILhs?autoplay=1&amp; enableOrientationSensor=0&amp;showinfo=0&amp;loop=1&amp;mute=1&amp;playlist=CNKFzItILhs' frameborder='0' allow='autoplay' allowfullscreen></iframe>",
+        "text": ""
+      }
+    ]
+  }
+]
