@@ -375,7 +375,7 @@
             } else if (intersects[0].object.name == "extended-1" || intersects[0].object.name == "extended-2"){
                 $( "#li11" ).trigger( "click" );
             } else if (intersects[0].object.name == "kitbox1"){
-                $( "#li12" ).trigger( "click" );
+                $( "#li14" ).trigger( "click" );
             }
     
             clearPickPosition();
